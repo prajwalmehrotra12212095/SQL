@@ -31,3 +31,7 @@ location varchar(20)
 );
 INSERT INTO office(id,firstname, middlename, lastname, age, salary, location) 
 VALUES (1,'kapil','kumar','sharma',28,1000,'bangalore');
+INSERT INTO office(id,firstname, middlename, lastname, age, salary, location) 
+VALUES (2,'kapil','kumar','sharma',28,1000,'bangalore');
+SELECT *
+FROM office
