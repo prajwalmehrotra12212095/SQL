@@ -10,4 +10,3 @@ SELECT *
 FROM emplyee;
 INSERT INTO emplyee(firstname, middlename, lastname, age, salary, location) VALUES ('kapil','kumar','sharma',28,1000,'bangalore');
 INSERT INTO emplyee VALUES ('kapil','kumar','sharma',28,1000,'bangalore');
-//
