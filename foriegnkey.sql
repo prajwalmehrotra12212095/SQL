@@ -78,3 +78,4 @@ VALUES
  '917890123456', '919876543219', GETDATE(), 
  10, 5, 'Microsoft', 
  '2025-05-25',  'Campus Drive', 'Mumbai');
+ delete from courses where course_id=2;
